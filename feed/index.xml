@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>E-Manual SVC</title>
+	<atom:link href="https://yashnigam07.github.io/demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yashnigam07.github.io/demo</link>
+	<description>Department of Electronics</description>
+	<lastBuildDate>Fri, 07 Jun 2024 08:04:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Electrical Technology:</title>
+		<link>https://yashnigam07.github.io/demo/electrical-technology/</link>
+					<comments>https://yashnigam07.github.io/demo/electrical-technology/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 08:04:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1133</guid>
+
+					<description><![CDATA[Reference Links]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/electrical-technology/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PYTHON</title>
+		<link>https://yashnigam07.github.io/demo/python/</link>
+					<comments>https://yashnigam07.github.io/demo/python/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 08:00:43 +0000</pubDate>
+				<category><![CDATA[PYTHON]]></category>
+		<category><![CDATA[SIMULATION]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1129</guid>
+
+					<description><![CDATA[Programming Fundamentals using Python Reference Links]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/python/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ICs and their Pin Diagrams</title>
+		<link>https://yashnigam07.github.io/demo/ics-and-their-pin-diagrams/</link>
+					<comments>https://yashnigam07.github.io/demo/ics-and-their-pin-diagrams/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:58:20 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1124</guid>
+
+					<description><![CDATA[https://www.build-electronic-circuits.com/7400-series-integrated-circuits/]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/ics-and-their-pin-diagrams/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Synchronous non-sequential counter using JK/T flip flop</title>
+		<link>https://yashnigam07.github.io/demo/synchronous-non-sequential-counter-using-jk-t-flip-flop/</link>
+					<comments>https://yashnigam07.github.io/demo/synchronous-non-sequential-counter-using-jk-t-flip-flop/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:48:19 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1120</guid>
+
+					<description><![CDATA[Aim: &#160;To design a synchronous non-sequential counter using JK/T flip flop Apparatus: &#160;JK flip flop, T flip flop, AND gates, OR gates, Probes, Hex display, connecting wires, Digital interactive signal generators, clock pulse generator. Circuit diagram:]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/synchronous-non-sequential-counter-using-jk-t-flip-flop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>synchronous/ asynchronous counter using jk/t/d flip flops</title>
+		<link>https://yashnigam07.github.io/demo/synchronous-asynchronous-counter-using-jk-t-d-flip-flops/</link>
+					<comments>https://yashnigam07.github.io/demo/synchronous-asynchronous-counter-using-jk-t-d-flip-flops/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:46:11 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1112</guid>
+
+					<description><![CDATA[Aim: &#160;to design a synchronous/ asynchronous counter using jk/t/d flip flops. Apparatus: &#160;jk flip-flop, D flip-flop, T flip-flop, connecting wires, digital signal inputs, display. Circuit Diagrams:]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/synchronous-asynchronous-counter-using-jk-t-d-flip-flops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>DESIGN A SISO SHIFT REGISTER.</title>
+		<link>https://yashnigam07.github.io/demo/design-a-siso-shift-register/</link>
+					<comments>https://yashnigam07.github.io/demo/design-a-siso-shift-register/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:41:06 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1107</guid>
+
+					<description><![CDATA[AIM : DESIGN A SISO SHIFT REGISTER. APPARATUS : D_FLIP FLOP (*4), CROs (2), FUNCTION GENERATORs (2), connecting wires. CIRCUIT : OUTPUT :]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/design-a-siso-shift-register/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>FLIP-FLOPS</title>
+		<link>https://yashnigam07.github.io/demo/flip-flops/</link>
+					<comments>https://yashnigam07.github.io/demo/flip-flops/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:36:30 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1100</guid>
+
+					<description><![CDATA[Aim : To build a Flip- Flop Circuits using elementary gates. (RS, Clocked RS, D-type, JK, JK Master slave). Components Required: IC 7400 , IC 7410 , 5v dc power supply , ground Circuit Diagrams and Outputs: D Flip Flop : RS Flip Flop: Clocked RS Flip Flop: JK Flip Flop : Result : Hence [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/flip-flops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>4: 1 multiplexer using logic gate.</title>
+		<link>https://yashnigam07.github.io/demo/4-1-multiplexer-using-logic-gate/</link>
+					<comments>https://yashnigam07.github.io/demo/4-1-multiplexer-using-logic-gate/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:34:03 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1097</guid>
+
+					<description><![CDATA[Aim: &#160;Design &#38; implement a 4: 1 multiplexer using logic gate. Apparatus: &#160;Power supply IC – 7404, 7410, 7432, resistance 220 Ω. Observations: Truth Table: Input S1 S2 Output A 0 0 A B 0 1 B C 1 0 C D 1 1 D Result: Hence truth table verified.]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/4-1-multiplexer-using-logic-gate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>To design a seven-segment display</title>
+		<link>https://yashnigam07.github.io/demo/to-design-a-seven-segment-display/</link>
+					<comments>https://yashnigam07.github.io/demo/to-design-a-seven-segment-display/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:32:26 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1092</guid>
+
+					<description><![CDATA[Aim: To design a seven-segment display Apparatus: IC 74LS47D , Seven segment Display , 5V(VCC),Resistance(1k) Circuit Diagrams:   Result: seven segment display s designed and decimal number  and 7 are verified]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/to-design-a-seven-segment-display/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Design a half and full subtractor.</title>
+		<link>https://yashnigam07.github.io/demo/design-a-half-and-full-subtractor/</link>
+					<comments>https://yashnigam07.github.io/demo/design-a-half-and-full-subtractor/#respond</comments>
+		
+		<dc:creator><![CDATA[advitkhera]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 07:29:38 +0000</pubDate>
+				<category><![CDATA[DIGITAL ELECTRONICS]]></category>
+		<guid isPermaLink="false">https://yashnigam07.github.io/demo/?p=1086</guid>
+
+					<description><![CDATA[AIM Design a half and full subtractor. Apparatus Required : IC(74LS86N , 74LS04D , 74LS08N , 74LS32D) , DC power supply(5V) , 2 LEDs . Circuit Diagram : For Half subtractor – For Full subtractor &#8211; Result : Designing of Half and Full subtractor are done .]]></description>
+		
+					<wfw:commentRss>https://yashnigam07.github.io/demo/design-a-half-and-full-subtractor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
